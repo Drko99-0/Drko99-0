@@ -1,7 +1,9 @@
 💻 Hola, soy Drko
 
 Estudiante de Redes y Comunicaciones | Desarrollador en Python y JavaScript
+
 Soy un apasionado por la tecnología, actualmente enfocado en el desarrollo de software y las infraestructuras de red. Me encanta aprender sobre nuevas tecnologías y buscar formas de optimizar y automatizar procesos.
+
 
 🔧 Habilidades Técnicas
 Lenguajes de Programación: Python, JavaScript
