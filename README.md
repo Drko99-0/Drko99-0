@@ -1,6 +1,7 @@
 # 💻 **Hola, soy Drko**  
 
-### **Estudiante de Redes y Comunicaciones | Desarrollador en Python y JavaScript**
+### **Estudiante de Redes y Comunicaciones | Desarrollador en Python y JavaScript**                                  ![Mi Foto de Perfil](https://media.discordapp.net/attachments/842141004408946738/1293951645461385307/DALL_E-2024-10-10-09.55.34-A-simple-profile-picture-of-a-male-programmer-removebg-preview.png?ex=67093de0&is=6707ec60&hm=8a488df360138931f962178900b1e1efa86783bbeaa733f813ad8547d99c8b8b&=&format=webp&quality=lossless)
+
 
 
 Soy un apasionado por la tecnología, actualmente enfocado en el desarrollo de software y las infraestructuras de red. Me encanta aprender sobre nuevas tecnologías y buscar formas de optimizar y automatizar procesos.
