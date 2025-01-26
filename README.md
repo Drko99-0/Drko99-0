@@ -22,8 +22,3 @@ Soy un apasionado por la tecnología, actualmente enfocado en el desarrollo de s
 ### 🌱 **Actualmente aprendiendo**
 - Seguridad informática y hacking ético.
 - Optimización de redes y administración avanzada de servidores.
-
-### 📫 **Cómo contactarme**
-- **Correo electrónico**: [maxyu18@gmail.com](mailto:maxyu18@gmail.com)
-- **LinkedIn**: [Yampier Rodríguez Fuentes](https://www.linkedin.com/in/yampier-rodriguez-fuentes-917a9932a/)
-- **GitHub**: [Drko99-0](https://github.com/Drko99-0)
